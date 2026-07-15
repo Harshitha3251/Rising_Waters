@@ -18,4 +18,3 @@ Repository Structure
 
 8.Project Demonstration
 
-Replace the placeholder files with your team's project deliverables.
